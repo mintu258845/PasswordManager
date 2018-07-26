@@ -19,8 +19,6 @@ The questions we would like you to answer while recording yourself are (please a
 8. What is your experience with APIs (integration, development, testing etc)? Did you know any frameworks?
 9. Do you think you have other pertinent skills relevant to this position?
 10. What is your experience with remote teams?
-11. Name one (or more if you like) thing that you think is inadmissible in the workplace (or while you are working)
-12. Name one (or more if you like) thing that you think is indispensable in the workplace (or while you are working)
 
 After recording yourself and downloading the video file, please, watch it and ensure everything is ok. We will declassify you if the video is inaudible or corrupted.
 
