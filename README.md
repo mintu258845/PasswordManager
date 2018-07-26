@@ -5,7 +5,8 @@ Welcome to the technical test. Thank you for your interest in being part of our 
 2. A practical Python test
 
 # Video about you
-We want to know more about you. So we created some questions and we would like you to record yourself answering those questions and send us back the video file. For that, we recommend this website: https://webcamera.io/. With it, you will be able to record yourself and save the video into a file. This will video file should be sent together with your code (described in the sections below).
+We want to know more about you. So we created some questions and we would like you to record yourself answering those questions and send us back the video file. For that, we recommend this website: https://webcamera.io/. With it, you will be able to record yourself and save the video into a file. This will video file should be sent together with your code (described in the sections below). We **will not**, ever, publish or share your video with anyone. This will only be seen by the technical reviewer assigned to your application.
+If you refuse to record yourself but still want to participate in our process you may only record an audio of you answering the questions below. For audio recording, you may find a lot of options on the web.
 
 ## Questions
 The questions we would like you to answer while recording yourself are (please answer in the same order):
