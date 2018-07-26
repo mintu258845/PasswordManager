@@ -1,11 +1,58 @@
-# Instructions
+# Introduction
+Welcome to the technical test. Thank you for your interest in being part of our team. This will be divided into 2 parts:
 
-1. Create a Python module called "passwords". 
-2. The module should have at least one function responsible for generating a random password. The base for the function is available in the file `skeleton.py`. You are free to use any programming style or organize the module the way you want. Third-party libraries are not allowed, only builtins.
-3. Use the function you have created to generate 12 passwords, 3 for each complexity level (found in the file `skeleton.py`) where you should use as `length`, respectively: 8, 10 and 12 characters. Create a script to store the 12 generated passwords into a file (you can choose the file type).
-4. Using the `check_password_level` function from `skeleton.py` as base create a test function the return the level of complexity for a given password.
-5. Create a script that read the file you generated on step 3 and store the output for each password into a file (you can choose the file type).
-6. Compress all files (Python scripts and generated output files) into a single `test.zip`.
-7. Write an email to me explaining your solution and why did you coded it the way you coded and attach the `test.zip` file.
+1. A recorded video from you talking about your experience
+2. A practical Python test
 
-Consider all code written here as a production code.
+# Video about you
+We want to know more about you. So we created some questions and we would like you to record yourself answering those questions and send us back the video file. For that, we recommend this website: https://webcamera.io/. With it, you will be able to record yourself and save the video into a file. This will video file should be sent together with your code (described in the sections below).
+
+## Questions
+The questions we would like you to answer while recording yourself are (please answer in the same order):
+
+1. Briefly describe your experience with Software development
+2. What is your experience specifically with Python version 3?
+3. How do you debug and test your code? Which tools or strategies do you use?
+5. Do you have any experience with async programming (async.io, Tornado etc)?
+6. Do you have any experience with threads or multiprocessing in Python?
+7. What is your familiarity with DevOps tools? Have you had the chance to know or work with any of them?
+8. What is your experience with APIs (integration, development, testing etc)? Did you know any frameworks?
+9. Do you think you have other pertinent skills relevant to this position?
+10. What is your experience with remote teams?
+11. Name one (or more if you like) thing that you think is inadmissible in the workplace (or while you are working)
+12. Name one (or more if you like) thing that you think is indispensable in the workplace (or while you are working)
+
+After recording yourself and downloading the video file, please, watch it and ensure everything is ok. We will declassify you if the video is inaudible or corrupted.
+
+## Python Test
+This essential Python test is designed to assess your familiarity with the basic concepts of Python, how organized you are and your overall coding skills. You will be evaluated based on this criterions:
+
+1. Formatting: basically PEP8
+2. Structure: how modular is your code and do you organize it
+3. Familiarity: how much you know standard libraries and syntax
+
+### Getting started
+Before you start working on the code:
+
+1. Log in into your Bitbucket account or create a new one
+2. Fork this repository [how to fork](https://confluence.atlassian.com/bitbucket/forking-a-repository-221449527.html)
+3. Clone your forked version of this repository [how to clone](https://confluence.atlassian.com/bitbucket/clone-a-repository-223217891.html)
+4. Be sure that you are using Python version >= 3.6
+
+### Challenge
+In the `reference.py` file you will find references about the functions you will need to create, don't forget to take a look at it. Do not use it into your final code nor change it (you may copy & paste its contents into your script), this file should be read-only.
+
+1. Create a Python module
+2. Define a function that creates random passwords with a given length and complexity. See the function `generate_password` in the `reference.py` file.
+3. Define a function that asserts that the complexity levels. See the function `check_password_level` in the `reference.py` file.
+4. Create a script that generates passwords (with multiple scenarios) and tests them using the assertion function you created in step 3. Them output the result (success or fail).
+5. Define a function that retrieves a random user and persist the user into an SQLite database (full name and email). This SQLite database must be persistent (not in memory). See the function `create_user` in the `reference.py` file.
+6. At last, create a script that retrieves 10 users using the function you created on the last step and for each one: create a new password using the password generator function with random length (between 6 and 12) and random complexity level; persist this password into the SQLite database associated with the correspondent user.
+
+### Wrapping up
+1. Create a Markdown file called "solution" explaining your solution and why did you code it the way you coded.
+2. Commit your changes [how to commit](https://confluence.atlassian.com/get-started-with-bitbucket/push-code-to-bitbucket-861185309.html)
+3. Don't forget to add your video file!
+4. Push your changes [how to push](https://confluence.atlassian.com/get-started-with-bitbucket/push-code-to-bitbucket-861185309.html)
+5. Open a Pull Request to this repository [how to make a pull request](https://www.atlassian.com/git/tutorials/making-a-pull-request)
+
