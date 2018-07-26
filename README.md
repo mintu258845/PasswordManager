@@ -22,14 +22,14 @@ The questions we would like you to answer while recording yourself are (please a
 
 After recording yourself and downloading the video file, please, watch it and ensure everything is ok. We will declassify you if the video is inaudible or corrupted.
 
-## Python Test
+# Python Test
 This essential Python test is designed to assess your familiarity with the basic concepts of Python, how organized you are and your overall coding skills. You will be evaluated based on this criterions:
 
 1. Formatting: basically PEP8
 2. Structure: how modular is your code and do you organize it
 3. Familiarity: how much you know standard libraries and syntax
 
-### Getting started
+## Getting started
 Before you start working on the code:
 
 1. Log in into your Bitbucket account or create a new one
@@ -37,7 +37,7 @@ Before you start working on the code:
 3. Clone your forked version of this repository [how to clone](https://confluence.atlassian.com/bitbucket/clone-a-repository-223217891.html)
 4. Be sure that you are using Python version >= 3.6
 
-### Challenge
+## Challenge
 In the `reference.py` file you will find references about the functions you will need to create, don't forget to take a look at it. Do not use it into your final code nor change it (you may copy & paste its contents into your script), this file should be read-only.
 
 1. Create a Python module
@@ -47,10 +47,11 @@ In the `reference.py` file you will find references about the functions you will
 5. Define a function that retrieves a random user and persist the user into an SQLite database (full name and email). This SQLite database must be persistent (not in memory). See the function `create_user` in the `reference.py` file.
 6. At last, create a script that retrieves 10 users using the function you created on the last step and for each one: create a new password using the password generator function with random length (between 6 and 12) and random complexity level; persist this password into the SQLite database associated with the correspondent user.
 
-### Wrapping up
+## Wrapping up
 1. Create a Markdown file called "solution" explaining your solution and why did you code it the way you coded.
 2. Commit your changes [how to commit](https://confluence.atlassian.com/get-started-with-bitbucket/push-code-to-bitbucket-861185309.html)
 3. Don't forget to add your video file!
 4. Push your changes [how to push](https://confluence.atlassian.com/get-started-with-bitbucket/push-code-to-bitbucket-861185309.html)
 5. Open a Pull Request to this repository [how to make a pull request](https://www.atlassian.com/git/tutorials/making-a-pull-request)
 
+Thank you!
