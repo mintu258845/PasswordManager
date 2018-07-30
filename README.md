@@ -35,12 +35,12 @@ This essential Python test is designed to assess your familiarity with the basic
 Before you start working on the code:
 
 1. Log in into your Bitbucket account or create a new one
-2. Fork this repository [how to fork](https://confluence.atlassian.com/bitbucket/forking-a-repository-221449527.html)
-3. Clone your forked version of this repository [how to clone](https://confluence.atlassian.com/bitbucket/clone-a-repository-223217891.html)
+2. Fork this repository into a **private repository** (to protect your privacy) [How to fork](https://confluence.atlassian.com/bitbucket/forking-a-repository-221449527.html)
+3. Clone your forked version of this repository [How to clone](https://confluence.atlassian.com/bitbucket/clone-a-repository-223217891.html)
 4. Be sure that you are using Python version >= 3.6
 
 ## Challenge
-In the `reference.py` file you will find references about the functions you will need to create, don't forget to take a look at it. Do not use it into your final code nor change it (you may copy & paste its contents into your script), this file should be read-only.
+In the `reference.py` file you will find references about the functions you will need to create, don't forget to take a look at it. **Do not use it into your final code nor change it** (you may copy & paste its contents into your script), this file should be read-only.
 
 1. Create a Python module
 2. Define a function that creates random passwords with a given length and complexity. See the function `generate_password` in the `reference.py` file.
@@ -51,9 +51,9 @@ In the `reference.py` file you will find references about the functions you will
 
 ## Wrapping up
 1. Create a Markdown file called "solution" explaining your solution and why did you code it the way you coded.
-2. Commit your changes [how to commit](https://confluence.atlassian.com/get-started-with-bitbucket/push-code-to-bitbucket-861185309.html)
+2. Commit your changes. [How to commit](https://confluence.atlassian.com/get-started-with-bitbucket/push-code-to-bitbucket-861185309.html)
 3. Don't forget to add your video file!
-4. Push your changes [how to push](https://confluence.atlassian.com/get-started-with-bitbucket/push-code-to-bitbucket-861185309.html)
-5. Open a Pull Request to this repository [how to make a pull request](https://www.atlassian.com/git/tutorials/making-a-pull-request)
+4. Push your changes. [How to push](https://confluence.atlassian.com/get-started-with-bitbucket/push-code-to-bitbucket-861185309.html)
+5. At your repository's page: go to _Settings_, then _User and group access_ and add a new user `marcellus777` with _read_ permission.
 
 Thank you!
