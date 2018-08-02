@@ -1,7 +1,9 @@
+# DO NOT USE THIS FILE. YOU MAY COPY ITS CONTENT INTO ANOTHER SCRIPT.
+
 """
-    There are a few libs imported here
-    but  their use is only optional
-    you may import other libs as well
+    There are a few libs imported here, their use is only optional
+    you may import other libs as well but you need to provide
+    a requirements.txt if you use any third-party libs.
 """
 
 import random  # https://docs.python.org/3.6/library/random.html
