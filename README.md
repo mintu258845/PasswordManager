@@ -54,6 +54,8 @@ In the `reference.py` file you will find references about the functions you will
 2. Commit your changes. [How to commit](https://confluence.atlassian.com/get-started-with-bitbucket/push-code-to-bitbucket-861185309.html)
 3. Don't forget to add your video file!
 4. Push your changes. [How to push](https://confluence.atlassian.com/get-started-with-bitbucket/push-code-to-bitbucket-861185309.html)
-5. At your repository's page: go to _Settings_, then _User and group access_ and add a new user `marcellus777` with _read_ permission.
+5. **If you completed all tasks**: at your repository's page: go to _Settings_, then _User and group access_ and add a new user `marcellus777` with _read_ permission. **Do this step only if you are done**.
 
-Thank you!
+**Do not give me access to your repository if you are not done.**
+
+Thank you and good luck!
