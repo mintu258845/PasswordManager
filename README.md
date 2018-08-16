@@ -14,13 +14,13 @@ The questions we would like you to answer while recording yourself are (please a
 
 1. Briefly describe your experience with Software development
 2. What is your experience specifically with Python version 3?
-3. How do you debug and test your code? Which tools or strategies do you use?
-5. Do you have any experience with async programming (async.io, Tornado etc)?
-6. Do you have any experience with threads or multiprocessing in Python?
-7. What is your familiarity with DevOps tools? Have you had the chance to know or work with any of them?
-8. What is your experience with REST APIs (integration, development, testing etc)? Did you know any frameworks?
-9. Do you think you have other pertinent skills relevant to this position?
-10. What is your experience with remote teams?
+3. Do you have any experience with async programming in Python?
+4. Do you have any experience with threads or multiprocessing in Python?
+5. What is your familiarity with DevOps tools? Have you had the chance to know or work with any of them?
+6. What is your experience with REST APIs (integration, development, testing etc)? Did you know any frameworks?
+7. How do you debug and test your code? Which tools or strategies do you use?
+8. Do you think you have other pertinent skills relevant to this position?
+9. What is your experience with remote teams?
 
 After recording yourself and downloading the video file, please, watch it and ensure everything is ok. We will declassify you if the video is inaudible or corrupted.
 
