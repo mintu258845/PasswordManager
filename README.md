@@ -40,7 +40,8 @@ Before you start working on the code:
 4. Be sure that you are using Python version >= 3.6
 
 ## Challenge
-In the `reference.py` file you will find references about the functions you will need to create, don't forget to take a look at it. **Do not use it into your final code nor change it** (you may copy & paste its contents into your script), this file should be read-only. If you use any third-party library you must provide a requirements.txt file.
+In the `reference.py` file you will find references about the functions you will need to create, don't forget to take a look at it. **Do not use it into your final code nor change the file** (you may copy & paste its contents into your script, and create other functions if necessary), this file should be read-only.
+If you use any third-party library you must provide a requirements.txt file.
 
 1. Create a Python module
 2. Define a function that creates random passwords with a given length and complexity. See the function `generate_password` in the `reference.py` file.
