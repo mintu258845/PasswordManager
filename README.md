@@ -5,9 +5,11 @@ Welcome to the technical test. Thank you for your interest in being part of our 
 2. A practical Python test
 
 # About you
-We want to know more about you. So we created some questions and we would like you to record yourself answering those questions and send us back the video file. For that, we recommend this website: https://webcamera.io/. With it, you will be able to record yourself and save the video into a file. This will video file should be sent together with your code (described in the sections below). We **will not**, ever, publish or share your video with anyone. This will only be seen by the technical reviewer assigned to your application.
+We want to know more about you. So we created some questions and we would like you to record yourself answering those questions and send us back either the video file or video URL. For recording, we recommend this website: https://webcamera.io/. With it, you will be able to record yourself and save the video into a file. This will video file should be sent together with your code (described in the sections below). Instead of sending us the video file you can also upload it into Google Drive (preferred) or YouTube and just send us the URL. We **will not**, ever, publish or share your video with anyone. This will only be seen by the technical reviewer assigned to your application.
 
-If you *refuse* to record yourself but still want to participate in our process you may only record an audio of you answering the questions below. For audio recording, you may find a lot of options on the web.
+If you *refuse* to record yourself but still want to participate in our process you may only record an audio of you answering the questions below. For audio recording, you may find a lot of options on the web. You can send us the audio file via Google Drive as well by providing the URL.
+
+**If you opt to upload your video or audio file into Google Drive (instead of sharing the raw file), just add the public URL into your `solution.md` (details below). Do not share it with any Nexus Edge email.**
 
 ## Questions
 The questions we would like you to answer while recording yourself are (please answer in the same order):
@@ -53,7 +55,7 @@ If you use any third-party library you must provide a requirements.txt file.
 ## Wrapping up
 1. Create a Markdown file called "solution" explaining your solution and why did you code it the way you coded.
 2. Commit your changes. [How to commit](https://confluence.atlassian.com/get-started-with-bitbucket/push-code-to-bitbucket-861185309.html)
-3. Don't forget to add your video file!
+3. Don't forget to add either your video file or URL (in YouTube or Google Drive)!
 4. Push your changes. [How to push](https://confluence.atlassian.com/get-started-with-bitbucket/push-code-to-bitbucket-861185309.html)
 5. **If you completed all tasks**: at your repository's page: go to _Settings_, then _User and group access_ and add a new user `marcellus777` with _read_ permission. **Do this step only if you are done**.
 
