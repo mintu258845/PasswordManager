@@ -17,7 +17,7 @@ The questions we would like you to answer while recording yourself are (please a
 3. Do you have any experience with async programming in Python?
 4. Do you have any experience with threads or multiprocessing in Python?
 5. What is your familiarity with DevOps tools? Have you had the chance to know or work with any of them?
-6. What is your experience with REST APIs (integration, development, testing etc)? Did you know any frameworks?
+6. What is your experience with REST APIs (integration, development, testing etc)? Do you know any frameworks?
 7. How do you debug and test your code? Which tools or strategies do you use?
 8. Do you think you have other pertinent skills relevant to this position?
 9. What is your experience with remote teams?
