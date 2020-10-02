@@ -4,7 +4,7 @@ PROBLEM
 3. Define a function that asserts that the complexity levels. 
 4. Create a script that generates passwords (with multiple scenarios) and tests them using the assertion function you created in step 3. Them output the result (success or fail).
 5. Define a function that retrieves a random user and persist the user into an SQLite database (full name and email). This SQLite database must be persistent (not in memory).
-6. At last, create a script that retrieves 10 users using the function you created on the last step and for each one: create a new password using the password generator function with random length (between 6 and 12) and random complexity level; persist this password into the SQLite database associated with the correspondent user.
+6. At last, create a script that retrieves 10 users using the function you created on the last step and for each one: create a new password using the password generator function with random length (between 6 to 12) and random complexity level; persist this password into the SQLite database associated with the correspondent user.
 
 SOLUTION 
 In generate_password()
@@ -14,7 +14,7 @@ In generate_password()
 
 In check_password_level()
 Here I am using nested if loops.
-outermost loop checks for complexity 1 and assigns the complexity to 1,
+Outermost loop checks for complexity 1 and assigns the complexity to 1,
 complexity will be overridden if it matches higher complexity requirements.
 I used this method because, complexity 4 should meet the requiremnt of complexity 3,2 and 1.
 I found this as simple solution compared complex logical operator involved conditions.
